@@ -4,10 +4,10 @@ This bot will pick up on when someone posts their wordle score, e.g:
 
 Wordle 1,005 5/6
 
-⬜⬜⬜🟨🟩
-🟩⬜⬜⬜🟩
-🟩⬜🟩🟩🟩
-🟩🟩🟩🟩🟩
+⬜⬜⬜🟨🟩 <br>
+🟩⬜⬜⬜🟩 <br>
+🟩⬜🟩🟩🟩 <br>
+🟩🟩🟩🟩🟩 <br>
 
 and will save it to the leaderboard.
 
